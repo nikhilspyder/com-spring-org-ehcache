@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+custom:
+  ehcache:
+    timeToLiveSeconds: 10
+    maxEntriesLocalHeap: 10
+  
